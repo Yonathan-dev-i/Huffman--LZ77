@@ -1,4 +1,4 @@
-# 🗜️ CompresorLab — Demostración Interactiva de Compresión Sin Pérdida
+# Demostración Interactiva de Compresión Sin Pérdida
 
 Una **aplicación web interactiva** construida con Streamlit para explorar y comparar dos de los algoritmos de compresión sin pérdida más importantes: **Huffman Coding** y **LZ77**.
 
