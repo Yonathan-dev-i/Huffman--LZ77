@@ -66,7 +66,7 @@ La aplicación se abrirá automáticamente en `http://localhost:8501`
 
 ---
 
-## 📖 Cómo Usar
+##  Cómo Usar
 
 ### Uso Básico
 
@@ -113,7 +113,7 @@ Huffman--LZ77/
 
 ---
 
-## 🔧 Descripción Técnica de Módulos
+##  Descripción Técnica de Módulos
 
 ### `app.py` - Aplicación Principal
 - Interfaz web con Streamlit
